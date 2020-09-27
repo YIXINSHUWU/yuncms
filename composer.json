@@ -17,7 +17,7 @@
     "hightman/xunsearch": "^1.4",
     "topthink/think-captcha": "^1.0",
     "topthink/think-image": "^1.0",
-    "phpmailer/phpmailer": "^5.2",
+    "phpmailer/phpmailer": "^6.1",
     "aliyuncs/oss-sdk-php": "^2.2",
     "qiniu/php-sdk": "^7.1",
     "flc/alidayu": "^2.0"
